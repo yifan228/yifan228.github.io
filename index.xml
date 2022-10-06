@@ -6,20 +6,11 @@
     <description>Recent content on 屎來海姆的遊戲部屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://yifan228.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://yifan228.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://yifan228.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 29 Sep 2022 15:00:00 +0800</lastBuildDate><atom:link href="https://yifan228.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test and markdown note</title>
       <link>https://yifan228.github.io/blog/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 15:00:00 +0800</pubDate>
       
       <guid>https://yifan228.github.io/blog/test/</guid>
       <description>hellow word
@@ -27,6 +18,15 @@ i&amp;rsquo;m slahammu
 marckdown BOLD
 Italian
 有序序列一 內有序序列一 有序序列二 無序序列 內無序序列 引用</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://yifan228.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://yifan228.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>
