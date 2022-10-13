@@ -6,27 +6,16 @@
     <description>Recent content on 屎來海姆的遊戲部屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 29 Sep 2022 15:00:00 +0800</lastBuildDate><atom:link href="https://yifan228.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Oct 2022 00:33:00 +0800</lastBuildDate><atom:link href="https://yifan228.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test and markdown note</title>
-      <link>https://yifan228.github.io/blog/test/</link>
-      <pubDate>Thu, 29 Sep 2022 15:00:00 +0800</pubDate>
+      <title>心理學筆記 - 注意力一</title>
+      <link>https://yifan228.github.io/blog/psychology-attentionone/</link>
+      <pubDate>Fri, 14 Oct 2022 00:33:00 +0800</pubDate>
       
-      <guid>https://yifan228.github.io/blog/test/</guid>
-      <description>hellow word
-i&amp;rsquo;m slahammu
-marckdown BOLD
-Italian
-有序序列一 內有序序列一 有序序列二 無序序列 內無序序列 引用</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://yifan228.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://yifan228.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://yifan228.github.io/blog/psychology-attentionone/</guid>
+      <description>注意力 問題: 注意力有哪些特徵? 問題: 有哪些相關的理論? 忽略視盲實驗與其結果 參與者要看一段影片，影片中有一半演員穿黑衣，有一半演員穿白衣，另有一位偽裝成黑猩猩的演員毫無預警的穿過場警，在影片結束後，回答白衣演員們的傳球次數。實驗結果發現，在影片影像較為清晰時，有百分之42的人發現了黑猩猩，若黑猩猩的影像較為模糊時，只有百分之八發現黑猩猩。
+這個實驗說明了的幾個現象:
+有限容量: 注意力具有容量限制，我們無法察覺所有的訊息 選擇性: 在有限的注意力下，我們會進行選擇，在多個刺激中，忽略與目標無關的訊息，選擇與目標有關的訊息。 可調控: 訊息的精細程度，也會增加或減少我們對其的注意 持續性: 我們可以依照個人意願，持續注意某些訊息，並做進一步處理，像是將注意到的訊息暫時的放到短期記憶，或工作記憶中 被動與主動式的注意 被動式注意: 個體的注意取決於外在環性中的刺激，像是突如其來的聲響，閃光，或著是煽動情緒的畫面。</description>
     </item>
     
   </channel>

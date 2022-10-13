@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on 屎來海姆的遊戲部屋</title>
-    <link>https://yifan228.github.io/blog/</link>
-    <description>Recent content in Blogs on 屎來海姆的遊戲部屋</description>
+    <title>心理學 on 屎來海姆的遊戲部屋</title>
+    <link>https://yifan228.github.io/categories/%E5%BF%83%E7%90%86%E5%AD%B8/</link>
+    <description>Recent content in 心理學 on 屎來海姆的遊戲部屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 14 Oct 2022 00:33:00 +0800</lastBuildDate><atom:link href="https://yifan228.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Oct 2022 00:33:00 +0800</lastBuildDate><atom:link href="https://yifan228.github.io/categories/%E5%BF%83%E7%90%86%E5%AD%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>心理學筆記 - 注意力一</title>
       <link>https://yifan228.github.io/blog/psychology-attentionone/</link>
