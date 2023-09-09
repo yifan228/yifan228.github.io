@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 屎來海姆的遊戲部屋</title>
+    <title>Tags on 屎來海姆的小屋</title>
     <link>https://yifan228.github.io/tags/</link>
-    <description>Recent content in Tags on 屎來海姆的遊戲部屋</description>
+    <description>Recent content in Tags on 屎來海姆的小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 14 Oct 2022 00:33:00 +0800</lastBuildDate><atom:link href="https://yifan228.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Sep 2023 00:33:00 +0800</lastBuildDate><atom:link href="https://yifan228.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>塔羅牌</title>
+      <link>https://yifan228.github.io/tags/%E5%A1%94%E7%BE%85%E7%89%8C/</link>
+      <pubDate>Sat, 09 Sep 2023 00:33:00 +0800</pubDate>
+      
+      <guid>https://yifan228.github.io/tags/%E5%A1%94%E7%BE%85%E7%89%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>遊戲</title>
+      <link>https://yifan228.github.io/tags/%E9%81%8A%E6%88%B2/</link>
+      <pubDate>Sat, 09 Sep 2023 00:33:00 +0800</pubDate>
+      
+      <guid>https://yifan228.github.io/tags/%E9%81%8A%E6%88%B2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>注意與意識</title>
       <link>https://yifan228.github.io/tags/%E6%B3%A8%E6%84%8F%E8%88%87%E6%84%8F%E8%AD%98/</link>
