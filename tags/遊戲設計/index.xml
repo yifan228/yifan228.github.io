@@ -8,13 +8,22 @@
     <language>zh-tw</language>
     <lastBuildDate>Sat, 09 Sep 2023 00:33:00 +0800</lastBuildDate><atom:link href="https://yifan228.github.io/tags/%E9%81%8A%E6%88%B2%E8%A8%AD%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>塔羅牌筆記一</title>
+      <title></title>
       <link>https://yifan228.github.io/blog/%E5%A1%94%E7%BE%85%E7%89%8C%E7%AD%86%E8%A8%981/</link>
       <pubDate>Sat, 09 Sep 2023 00:33:00 +0800</pubDate>
       
       <guid>https://yifan228.github.io/blog/%E5%A1%94%E7%BE%85%E7%89%8C%E7%AD%86%E8%A8%981/</guid>
       <description>塔羅牌筆記 目的 : 抓取塔羅牌中的概念，看看能不能對遊戲發想有幫助 起源 : 古埃及的大祭司為了保留預言，以圖像的方式，將這些代表神智慧的結果刻在石板上。到亞歷山大時代，將這些圖像傳到歐洲，此時塔羅牌的功能像是普克牌，是一種紙牌遊戲與藝術紀念品，後來融合了中古世紀生活，宗教、星象、神話、王權、騎士蹟神等等文化，造就了近代(文藝復興之後) 的塔羅牌78牌系統。
 塔羅拿來做預測的原因 : 因為每張牌都有圖像，所以畫面會給你感覺，而這個感覺可能可以反映潛意識或內在動機。</description>
+    </item>
+    
+    <item>
+      <title>遊戲數值設計</title>
+      <link>https://yifan228.github.io/blog/%E6%95%B8%E5%80%BC%E8%A8%AD%E8%A8%88%E7%AD%86%E8%A8%98%E4%B8%80-%E5%9C%A8%E8%A8%AD%E8%A8%88%E6%95%B8%E5%80%BC%E5%89%8D%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B%E6%83%85/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifan228.github.io/blog/%E6%95%B8%E5%80%BC%E8%A8%AD%E8%A8%88%E7%AD%86%E8%A8%98%E4%B8%80-%E5%9C%A8%E8%A8%AD%E8%A8%88%E6%95%B8%E5%80%BC%E5%89%8D%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B%E6%83%85/</guid>
+      <description>數值設計筆記一 : 在設計數值前要知道的事情 核心 核心成長 核心戰鬥(核心體驗) 經濟脈絡 大多遊戲都可以看成是 : 成長與戰鬥(體驗)的循環。而在成長與戰鬥的互動中，擔任互動元素的就是經濟脈絡，例如 : 經過一場戰鬥，賺到了十塊錢，玩家用這十塊錢去增強自己的裝備。而玩家追求的體驗項目，可以看做是遊戲種類。玩家追求的體驗不同，收穫快樂的方式也不同。</description>
     </item>
     
   </channel>
